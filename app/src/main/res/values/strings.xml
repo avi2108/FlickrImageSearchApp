@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlickrImageSearch</string>
+    <string name="action_search">Search</string>
+    <string name="internet_error">Please connect to Internet and try again</string>
+</resources>
